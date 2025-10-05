@@ -1,3 +1,6 @@
+**Name** : **Prudhvi VVR Ajay Sreenivas**
+**Roll no.** : **DA25M023**
+
 # 🧬 Dimensionality Reduction on Gene Expression Data
 
 *Exploring Global vs. Local Structure with Isomap and t-SNE*
